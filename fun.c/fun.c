@@ -1,0 +1,25 @@
+
+#include <stdio.h>
+
+int main(){
+
+float num1, num2, result;
+
+printf("Please Enter Two Nambers(4  2 .3):");
+scanf("%f %f", &num1, &num2);
+
+result = num1 + num2;
+printf ("%f + %f = %f\n", num1, num2, result);
+
+result = num1 - num2 ;
+printf ("%f - %f = %f\n", num1, num2, result);
+
+result = num1 * num2 ;
+printf ("%f * %f = %f\n", num1, num2, result);
+
+result = num1 / num2 ;
+printf ("%f / %f = %f\n", num1, num2, result);
+
+
+    return 0;
+}
