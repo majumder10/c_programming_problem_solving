@@ -22,8 +22,6 @@ if(x <= 39){
 }else if(x > 100){
     printf("invalide input");
 }
-
-
 return 0;
 
 }

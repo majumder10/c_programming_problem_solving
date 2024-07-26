@@ -6,7 +6,7 @@ int main () {
   float num2 =450.45f;
   char ch = 'T';
  
- printf("%d\n",num);
+printf("%d\n",num);
 printf("%f\n",num2);
 printf("%c\n",ch);
 
